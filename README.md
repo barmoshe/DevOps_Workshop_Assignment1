@@ -37,3 +37,8 @@ You will receive AWS keys on the first day of the workshop. Set them up using th
 - Add a `README.md` file with this content and push it to the repository.
 
 
+<<<<<<< HEAD
+=======
+
+added branch
+>>>>>>> 5143818e7f04d6fc0a4fbb78e87e1a55a7af2677
