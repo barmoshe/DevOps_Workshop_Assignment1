@@ -36,3 +36,6 @@ You will receive AWS keys on the first day of the workshop. Set them up using th
 - Clone the repository to your local machine.
 - Add a `README.md` file with this content and push it to the repository.
 
+check
+
+ 
