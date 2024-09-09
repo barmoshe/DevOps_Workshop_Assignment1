@@ -1,5 +1,7 @@
 # DevOps Workshop - Assignment 1
 
+[README PORTFOLIO](https://barmoshe.github.io/DevOps_Workshop_Assignment1/)
+
 ## Overview
 
 This assignment marks the beginning of the DevOps Workshop at Wix, focusing on setting up critical DevOps tools and practicing Git workflows. The goal is to configure necessary environments such as GitHub with SSH keys, install essential software like Terraform and AWS CLI, and push the initial commit to a new GitHub repository.
