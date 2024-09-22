@@ -1,0 +1,20 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowAccessFromSpecificIP",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:*",
+      "Resource": [
+        "arn:aws:s3:::barm-devops-bucket",
+        "arn:aws:s3:::barm-devops-bucket/*"
+      ],
+      "Condition": {
+        "IpAddress": {
+          "aws:SourceIp": "46.117.201.196"
+        }
+      }
+    }
+  ]
+}
